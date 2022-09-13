@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+"""Defining the class Square"""
+
 class Square:
-    #Returns the square of a number
-    #square of a number = the number multiplied by itself
+    """Represents a aquare"""
+    pass
